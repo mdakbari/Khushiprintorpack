@@ -1671,6 +1671,7 @@ span.icon img {
 }
 
 .img-inner p a {
+    font-size: 17px;
     color: #fff;
 }
 
@@ -3860,7 +3861,7 @@ footer.footer-box p a i {
     margin-bottom: 15px;
     padding-left: 20px;
     padding-top: 3px;
-    background: url(../img/in-bulet-1.png) 0 10px no-repeat;
+    /* background: url(../img/in-bulet-1.png) 0 10px no-repeat; */
 }
 
 .footer_blog ul li a {}
